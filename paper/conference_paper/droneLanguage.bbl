@@ -1,0 +1,106 @@
+\begin{thebibliography}{10}
+
+\bibitem{ABW15prog}
+K.~Abbott, C.~Bogart, and E.~Walkingshaw.
+\newblock {Programs for People: What We Can Learn from Lab Protocols}.
+\newblock In {\em {IEEE Int.\ Symp.\ on Visual Languages and Human-Centric
+  Computing (VL/HCC)}}, pages 203 -- 211, 2015.
+
+\bibitem{B16little}
+{Boeing}.
+\newblock {Unmanned Little Bird H-6U}.
+\newblock \url{http://www.boeing.com/defense/unmanned-little-bird-h-6u}, 2016.
+\newblock [Online; accessed 01-June-2016].
+
+\bibitem{Eea15ivory}
+T.~Elliot, L.~Pike, S.~Winwood, P.~Hickey, J.~Bielman, J.~Sharp, E.~Seidel, and
+  J.~Launchbury.
+\newblock {Guilt Free Ivory}.
+\newblock In {\em Haskell Symposium}, pages 189 -- 200, 2015.
+
+\bibitem{EH97fra}
+C.~Elliott and P.~Hudak.
+\newblock {Functional Reactive Animation}.
+\newblock In {\em {ACM SIGPLAN International Conference on Functional
+  Programming}}, pages 263--273, 1997.
+
+\bibitem{FAA16fore}
+FAA.
+\newblock {FAA Aerospace Forecast: Fiscal Years 2016--2036}.
+\newblock Technical Report TC16-0002, United States Federal Aviation
+  Administration, Washington, DC, USA, 2016.
+
+\bibitem{Hea14build}
+P.~C. Hickey, L.~Pike, T.~Elliott, J.~Bielman, and J.~Launchbury.
+\newblock Building embedded systems with embedded dsls.
+\newblock In {\em ACM SIGPLAN Notices}, volume 49(9), pages 3--9. ACM, 2014.
+
+\bibitem{H99principles}
+E.~Horvitz.
+\newblock Principles of mixed-initiative user interfaces.
+\newblock {\em ACM SIGCHI 1999}, pages 159--166, May 1999.
+
+\bibitem{Kea11why}
+T.~Kulesza, S.~Stumpf, W.-K. Wong, M.~M. Burnett, S.~Perona, A.~Ko, and
+  I.~Oberst.
+\newblock Why-oriented end-user debugging of naive bayes text classification.
+\newblock {\em ACM Transactions on Interactive Intelligent Systems},
+  1(1):1--31, 2011.
+
+\bibitem{LHML08cosripter}
+T.~Lau, E.~M. Haber, T.~Matthews, and G.~Leshed.
+\newblock Coscripter: Automating \& sharing how-to knowledge in the enterprise.
+\newblock In {\em SIGCHI Conference on Human Factors in Computing Systems},
+  pages 1719--1728, Florence, Italy, 2008. ACM.
+
+\bibitem{LMRS04symbiosis}
+N.~Lesh, J.~Marks, C.~Rich, and C.~L. Sidner.
+\newblock "man-computer symbiosis" revisited: Achieving natural communication
+  and collaboration with computers.
+\newblock {\em IEICE Transactions on Information and Systems},
+  E87-D(6):1290--1298, 2004.
+
+\bibitem{L60symbiosis}
+J.~C.~R. Licklider.
+\newblock Man-computer symbiosis.
+\newblock {\em IRE Transactions on Human Factors in Electronics}, HFE-1(1),
+  1960.
+
+\bibitem{L02protocols}
+M.~Lynch.
+\newblock Protocols, practices, and the reproduction of technique in molecular
+  biology.
+\newblock {\em The British Journal of Sociology}, 53(53):203--220, 2002.
+
+\bibitem{ML92explanatory}
+C.~Miller and R.~Larson.
+\newblock An explanatory and ``argumentative'' interface for a model-based
+  diagnostic system.
+\newblock In {\em ACM Symposium on User interface Software and Technology
+  (UIST)}, pages 43--52, Monterey, California, United States, 1992. ACM.
+
+\bibitem{PGMN10copilot}
+L.~Pike, A.~Goodloe, R.~Morisset, and S.~Niller.
+\newblock {Copilot: A Hard Real-Time Runtime Monitor}.
+\newblock In {\em {1st Int.\ Conference on Runtime Verification}}, LNCS.
+  Springer, 2010.
+
+\bibitem{SRL01collagen}
+C.~L. Sidner, C.~Rich, and N.~Lesh.
+\newblock Collagen: Applying collaborative discourse theory to human-computer
+  interaction.
+\newblock {\em AI Magazine}, 22(4):15--26, 2001.
+
+\bibitem{S87plans}
+L.~A. Suchman.
+\newblock {\em Plans and Situated Actions: The Problem of Human-machine
+  Communication}.
+\newblock Cambridge University Press, 1987.
+
+\bibitem{WH00frp}
+Z.~Wan and P.~Hudak.
+\newblock {Functional Reactive Programming from First Principles}.
+\newblock In {\em {ACM SIGPLAN Conference on Programming Language Design and
+  Implementation}}, pages 242--252, 2000.
+
+\end{thebibliography}
